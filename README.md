@@ -1,4 +1,4 @@
-# faq
+# FAQ Blog
 
 
 1.git clone https://github.com/pk537/faq.git
